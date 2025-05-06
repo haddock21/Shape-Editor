@@ -87,11 +87,7 @@ const BUTTONS = [
         id: "export",
         icon: <i className="bi bi-download" style={{ color: "#ff7300", fontSize: "30px" }} />,
         name: "Export / Download",
-        desc: <ul className="d-flex flex-column align-items-center">
-            <li>JPEG (.jpg) – download canvas as an image</li>
-            <li>PDF (.pdf) – download canvas as a PDF</li>
-            <li>JSON (.json) – download the raw shapes data.</li>
-                </ul>
+        desc: "JPEG (.jpg) – download canvas as an image | PDF (.pdf) – download canvas as a PDF | JSON (.json) – download the raw shapes data."
     },
     {
         id: "copy/paste",

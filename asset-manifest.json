@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shape-Editor/static/css/main.ef17cc35.css",
-    "main.js": "/Shape-Editor/static/js/main.751ee3b2.js",
+    "main.js": "/Shape-Editor/static/js/main.33f8d484.js",
     "static/js/239.4552eebc.chunk.js": "/Shape-Editor/static/js/239.4552eebc.chunk.js",
     "static/js/977.b4db5013.chunk.js": "/Shape-Editor/static/js/977.b4db5013.chunk.js",
     "static/js/732.c4d26124.chunk.js": "/Shape-Editor/static/js/732.c4d26124.chunk.js",
@@ -10,7 +10,7 @@
     "static/media/polyline-svgrepo-com.svg": "/Shape-Editor/static/media/polyline-svgrepo-com.21dd408ea8a5b09c9fd78369f37344a5.svg",
     "static/media/vector-line-curve.svg": "/Shape-Editor/static/media/vector-line-curve.9b624a4fd347b7716a6d49be233020ad.svg",
     "main.ef17cc35.css.map": "/Shape-Editor/static/css/main.ef17cc35.css.map",
-    "main.751ee3b2.js.map": "/Shape-Editor/static/js/main.751ee3b2.js.map",
+    "main.33f8d484.js.map": "/Shape-Editor/static/js/main.33f8d484.js.map",
     "239.4552eebc.chunk.js.map": "/Shape-Editor/static/js/239.4552eebc.chunk.js.map",
     "977.b4db5013.chunk.js.map": "/Shape-Editor/static/js/977.b4db5013.chunk.js.map",
     "732.c4d26124.chunk.js.map": "/Shape-Editor/static/js/732.c4d26124.chunk.js.map",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.ef17cc35.css",
-    "static/js/main.751ee3b2.js"
+    "static/js/main.33f8d484.js"
   ]
 }

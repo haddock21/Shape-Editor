@@ -1,0 +1,6 @@
+<svg 
+    width={size} height={size} viewBox="0 0 24 24" fill="none" 
+    stroke="currentColor" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"
+  >
+    <polyline points="3,17 8,12 13,16 18,8 21,11" />
+  </svg>
